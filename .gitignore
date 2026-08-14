@@ -1,0 +1,4 @@
+# Public deployment allowlist. Keep the private vehicle archive untracked.
+*
+!/.gitignore
+!/index.html
